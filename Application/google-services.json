@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "992224999912",
+    "firebase_url": "https://me-fanflash.firebaseio.com",
+    "project_id": "me-fanflash",
+    "storage_bucket": "me-fanflash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992224999912:android:e1ee61e256773eb3",
+        "android_client_info": {
+          "package_name": "com.example.android.camera2basic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992224999912-j3l3056n80a5ktggbpbor6c8rh9gnc9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.camera2basic",
+            "certificate_hash": "19858bbdc52723fff0d75f8818cd058fb85c6859"
+          }
+        },
+        {
+          "client_id": "992224999912-itnb3m7geaqrupo77rmherhgtqbf3pvm.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "992224999912-itnb3m7geaqrupo77rmherhgtqbf3pvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5aHhK-X6UsSO-wpS5Szt8Hn8q6rcCI0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992224999912-itnb3m7geaqrupo77rmherhgtqbf3pvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
